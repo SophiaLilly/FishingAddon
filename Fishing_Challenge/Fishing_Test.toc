@@ -1,0 +1,8 @@
+## Interface: 11403
+## Title: Fishing Test
+## Author: Elodie Lillywhite
+## Version: 1.0
+
+## SavedVariablesPerCharacter: NewCharacter, FishingTable
+
+main.lua
